@@ -3,6 +3,7 @@
 !.gitignore
 
 !Spells/
-!Seplls/**
-!"Public Items"/
-!"Public Items"/**
+!Spells/**
+!Items/
+!Items/Public/
+!Items/Public/**
